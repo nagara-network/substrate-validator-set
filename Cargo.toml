@@ -12,28 +12,28 @@ version = '1.0.126'
 
 [dependencies.sp-core]
 default-features = false
-git = 'https://github.com/paritytech/substrate.git'
-branch = 'polkadot-v1.0.0'
+git = 'https://github.com/nagara-network/substrate.git'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.sp-io]
 default-features = false
-git = 'https://github.com/paritytech/substrate.git'
-branch = 'polkadot-v1.0.0'
+git = 'https://github.com/nagara-network/substrate.git'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.sp-runtime]
 default-features = false
-git = 'https://github.com/paritytech/substrate.git'
-branch = 'polkadot-v1.0.0'
+git = 'https://github.com/nagara-network/substrate.git'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.sp-std]
 default-features = false
-git = 'https://github.com/paritytech/substrate.git'
-branch = 'polkadot-v1.0.0'
+git = 'https://github.com/nagara-network/substrate.git'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.sp-staking]
 default-features = false
-git = 'https://github.com/paritytech/substrate.git'
-branch = 'polkadot-v1.0.0'
+git = 'https://github.com/nagara-network/substrate.git'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.log]
 default-features = false
@@ -47,25 +47,25 @@ version = '3.0.0'
 
 [dependencies.frame-benchmarking]
 default-features = false
-git = 'https://github.com/paritytech/substrate.git'
+git = 'https://github.com/nagara-network/substrate.git'
 optional = true
-branch = 'polkadot-v1.0.0'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.frame-support]
 default-features = false
-git = 'https://github.com/paritytech/substrate.git'
-branch = 'polkadot-v1.0.0'
+git = 'https://github.com/nagara-network/substrate.git'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.frame-system]
 default-features = false
-git = 'https://github.com/paritytech/substrate.git'
-branch = 'polkadot-v1.0.0'
+git = 'https://github.com/nagara-network/substrate.git'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.pallet-session]
 default-features = false
 features = ['historical']
-git = 'https://github.com/paritytech/substrate.git'
-branch = 'polkadot-v1.0.0'
+git = 'https://github.com/nagara-network/substrate.git'
+branch = 'nagara-network-v1.0.0-alpha'
 
 [dependencies.scale-info]
 default-features = false
